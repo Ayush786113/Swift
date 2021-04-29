@@ -93,7 +93,7 @@ public class MainActivity extends AppCompatActivity implements View.OnLongClickL
     @Override
     public boolean onLongClick(View view) {
         startActivity(new Intent(MainActivity.this, AppsDrawer.class));
-        CustomIntent.customType(MainActivity.this, "bottom-to-up");
+        CustomIntent.customType(MainActivity.this, "fadein-to-fadeout");
         return true;
     }
 
