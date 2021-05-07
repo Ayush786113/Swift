@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.project.swift">
+    package="com.celestialinterface.swift">
     <uses-permission android:name="android.permission.USE_BIOMETRIC"/>
 
     <application
@@ -10,8 +10,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.NoActionBar">
-        <activity android:name=".AppsDrawer"></activity>
-        <activity android:name=".MainActivity"
+        <activity android:name="com.celestialinterface.swift.AppsDrawer"></activity>
+        <activity android:name="com.celestialinterface.swift.MainActivity"
             android:launchMode="singleTask"
             android:stateNotNeeded="true">
             <intent-filter>
