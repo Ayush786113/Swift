@@ -13,3 +13,7 @@
 .externalNativeBuild
 .cxx
 .idea
+private_key.pepk
+swift_keystore.jks
+swift_data.txt
+swift_access_token.txt
