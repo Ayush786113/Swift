@@ -48,4 +48,4 @@ When using Swift, It should automatically prompt for fingerprint authentication.
 [Ayush](https://www.github.com/ayush786113)
 ## Contact
 
-For support, feedback, feature request, suggestion or any communication, email [me](ayush786113@gmail.com) and optionally visit my social media profiles to know me better, [Instagram](https://www.instagram.com/__pole___star__) and [Facebook](https://www.facebook.com/ayush.ghosal.3/)
+For support, feedback, feature request, suggestion or any communication, email is ayush786113@gmail.com and optionally visit my social media profiles to know me better, [Instagram](https://www.instagram.com/__pole___star__) and [Facebook](https://www.facebook.com/ayush.ghosal.3/)
