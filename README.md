@@ -17,7 +17,7 @@ Many times it happens that we keep a phone unlocked which other people can acces
 ## Installation
 
 The app is yet to be uploaded in Play Store, could not do it due to some unavoidable reasons.
-Install the app from the following link -> [Swift - Fingerprint Launcher](https://drive.google.com/file/d/1b6wLEImtlMbR-_BFwaGa1ZF7cckOdXWc/view?usp=sharing)
+Install the app from the following link -> [Swift - Fingerprint Launcher](https://drive.google.com/file/d/1npxZaHCFtpXP_6y0vOy_jhSSQKDdtiUB/view?usp=share_link)
 ## Tech Stack
 
     IDE - Android Studio (Canary Branch)
